@@ -1,2 +1,2 @@
 # ProjectTemplate
-Learning
+Learning Angular 2 First Application
